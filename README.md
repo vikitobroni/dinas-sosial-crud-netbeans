@@ -3,15 +3,15 @@ Inklusi App adalah Aplikasi dekstop pendataan di Dinas Sosial yang dibuat menggu
 
 Fitur Aplikasi:
 
-Input Data
-Delete Data
-Edit Data
-Print Data
-Export Data to Excel
-Teknologi yang digunakan:
+Input Data,
+Delete Data,
+Edit Data,
+Print Data,
+Export Data to Excel.
 
-Bahasa Pemrograman Java
-SQL
-Netbeans
-Figma
-XAMPP
+Teknologi yang digunakan:
+Bahasa Pemrograman Java,
+SQL,
+Netbeans,
+Figma,
+XAMPP.
